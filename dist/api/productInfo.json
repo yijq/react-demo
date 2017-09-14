@@ -1,0 +1,30 @@
+{
+    "product1":{
+        "productName":"product1",
+        "productDesc":"this is product1 description from ajax"
+    },
+    "product2":{
+        "productName":"product2",
+        "productDesc":"this is product2 description from ajax"
+    },
+    "product3":{
+        "productName":"product3",
+        "productDesc":"this is product3 description from ajax"
+    },
+    "product4":{
+        "productName":"product4",
+        "productDesc":"this is product4 description from ajax"
+    },
+    "product5":{
+        "productName":"product5",
+        "productDesc":"this is product5 description from ajax"
+    },
+    "product6":{
+        "productName":"product6",
+        "productDesc":"this is product6 description from ajax"
+    },
+    "product7":{
+        "productName":"product7",
+        "productDesc":"this is product7 description from ajax"
+    }
+}

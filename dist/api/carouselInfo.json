@@ -1,0 +1,30 @@
+{
+    "carousel1":{
+        "carouselName":"carousel1",
+        "carouselDesc":"this is carousel1 description from ajax"
+    },
+    "carousel2":{
+        "carouselName":"carousel2",
+        "carouselDesc":"this is carousel2 description from ajax"
+    },
+    "carousel3":{
+        "carouselName":"carousel3",
+        "carouselDesc":"this is carousel3 description from ajax"
+    },
+    "carousel4":{
+        "carouselName":"carousel4",
+        "carouselDesc":"this is carousel4 description from ajax"
+    },
+    "carousel5":{
+        "carouselName":"carousel5",
+        "carouselDesc":"this is carousel5 description from ajax"
+    },
+    "carousel6":{
+        "carouselName":"carousel6",
+        "carouselDesc":"this is carousel6 description from ajax"
+    },
+    "carousel7":{
+        "carouselName":"carousel7",
+        "carouselDesc":"this is carousel7 description from ajax"
+    }
+}
